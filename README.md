@@ -7,7 +7,7 @@ This is a forecast of OLX store sales based on the arbitrary data set of 45 OLX 
 
 
 <h2>Description: </h2>
-This solution falls under the 8th United Nations Sustainable Development Goal of "Decent Work and Economic Growth". The dataset is taken from [Walmart Sales Forecasting dataset](https://www.kaggle.com/c/walmart-sales-forecasting/data/). I made use of multiple prediction alogarithms and models including Auto Regression Model, Moving Average Model, Auto Regression Moving Average Model, Auto Regression Integrated Moving Average Model, Seasonal-ARMA Model and Random Forest Regression Model.
+This solution falls under the 8th United Nations Sustainable Development Goal of "Decent Work and Economic Growth". The dataset is taken from Walmart Sales Forecasting dataset(https://www.kaggle.com/c/walmart-sales-forecasting/data/). I made use of multiple prediction alogarithms and models including Auto Regression Model, Moving Average Model, Auto Regression Moving Average Model, Auto Regression Integrated Moving Average Model, Seasonal-ARMA Model and Random Forest Regression Model.
 
 <h2>Facbook Prophet: </h2>
 Facebook Prophet is an open-source forecasting tool in Python and R released and managed by Facebook. I made use of Facebook Prophet at the end of this project to forecast weekly, daily, quarterly and yearly sales of all the arbitrary OLX stores. 
